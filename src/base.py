@@ -13,7 +13,11 @@ class Base:
     get_data: scrape the data from the API and create a dataframe from it
     """
     def __init__(self):
-        self.api_url = 'https://api.coinranking.com/v2'
+        self.api_url = 'https://api.collectapi.com/corona/countriesData'
+        self.headers = {
+            'content-type': "application/json",
+            'authorization': "apikey 6E0Xk78UZVTEIyfpfB29rO:33l7pSNe73xSkZm0tr2Qdm"
+        }
         self.df = self.get_data()
     
     def return_url(self):
@@ -21,17 +25,16 @@ class Base:
     
     def get_data(self):
         ''' Scraping data from the API and creating a DataFrame from it.'''
-        headers = {
-        'x-access-token': 'coinranking591cd311d57696390361bc73e7583af6d635b618272d8595'
-        }
-        response = requests.request("GET", "https://api.coinranking.com/v2/coins", params={"orderBy": "marketCap", "limit": 5000})
+        response = requests.get(self.api_url, headers=self.headers)
         
-        # Alternate response coding:
-        # response = requests.get(self.api_url + "/coins", params={"orderBy": "marketCap", "limit": 5000})
-        
-        print(response.text)  # TEST: Print the JSON data     
-        
-        self.df = pd.DataFrame.from_dict(response)
+        if response.status_code == 200:
+            print(response.text) 
+            print("Connection successful!!!")
+            json_data = response.json()
+            self.df = pd.DataFrame(json_data)
+        else:
+            print("Connection not successful. Status code:", response.status_code)
+                    
         return self.df
     
 if __name__ == '__main__':
@@ -39,7 +42,7 @@ if __name__ == '__main__':
 
     # Establish the data folder directory and create the path:
     folder_dir = os.path.join(Path(__file__).parents[0], 'data')
-    csv_path = os.path.join(folder_dir, "crypto_data.csv")
+    csv_path = os.path.join(folder_dir, "covid_data.csv")
 
     c.df.to_csv(csv_path , index=False)
 
