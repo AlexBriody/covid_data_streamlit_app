@@ -31,7 +31,10 @@ class Base:
             print(response.text) 
             print("Connection successful!!!")
             json_data = response.json()
-            self.df = pd.DataFrame(json_data)
+
+            # Extract the 'result' field from the JSON data
+            list_of_dicts = json_data.get('result', [])
+            self.df = pd.DataFrame(list_of_dicts)
         else:
             print("Connection not successful. Status code:", response.status_code)
                     
@@ -40,11 +43,14 @@ class Base:
 if __name__ == '__main__':
     c = Base()
 
-    # Establish the data folder directory and create the path:
+    # File path problem: filepath to .csv not recognized
+    # Establish the data folder directory and create the path to .csv:
     folder_dir = os.path.join(Path(__file__).parents[0], 'data')
     csv_path = os.path.join(folder_dir, "covid_data.csv")
 
-    c.df.to_csv(csv_path , index=False)
+    # Setting index to 'country' column as data has no index column
+    c.df.set_index('country', inplace=True)
+    c.df.to_csv(csv_path, index=True)
 
   
     

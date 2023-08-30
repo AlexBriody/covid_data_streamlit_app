@@ -1,232 +1,232 @@
-success,result
-True,"{'country': 'USA', 'totalCases': '107,969,972', 'newCases': '', 'totalDeaths': '1,173,394', 'newDeaths': '', 'totalRecovered': '105,906,752', 'activeCases': ''}"
-True,"{'country': 'India', 'totalCases': '44,996,963', 'newCases': '', 'totalDeaths': '531,928', 'newDeaths': '', 'totalRecovered': '44,463,533', 'activeCases': ''}"
-True,"{'country': 'France', 'totalCases': '40,138,560', 'newCases': '', 'totalDeaths': '167,642', 'newDeaths': '', 'totalRecovered': '39,970,918', 'activeCases': ''}"
-True,"{'country': 'Germany', 'totalCases': '38,428,685', 'newCases': '', 'totalDeaths': '174,352', 'newDeaths': '', 'totalRecovered': '38,240,600', 'activeCases': ''}"
-True,"{'country': 'Brazil', 'totalCases': '37,758,545', 'newCases': '', 'totalDeaths': '705,170', 'newDeaths': '', 'totalRecovered': '36,249,161', 'activeCases': ''}"
-True,"{'country': 'S. Korea', 'totalCases': '34,179,800', 'newCases': '', 'totalDeaths': '35,687', 'newDeaths': '', 'totalRecovered': '33,701,683', 'activeCases': '+55,879'}"
-True,"{'country': 'Japan', 'totalCases': '33,803,572', 'newCases': '', 'totalDeaths': '74,694', 'newDeaths': '', 'totalRecovered': 'N/A', 'activeCases': 'N/A'}"
-True,"{'country': 'Italy', 'totalCases': '25,940,840', 'newCases': '', 'totalDeaths': '191,211', 'newDeaths': '', 'totalRecovered': '25,629,876', 'activeCases': ''}"
-True,"{'country': 'UK', 'totalCases': '24,671,491', 'newCases': '', 'totalDeaths': '228,707', 'newDeaths': '', 'totalRecovered': '24,428,140', 'activeCases': '+966'}"
-True,"{'country': 'Russia', 'totalCases': '22,986,528', 'newCases': '', 'totalDeaths': '399,972', 'newDeaths': '', 'totalRecovered': '22,439,760', 'activeCases': ''}"
-True,"{'country': 'Turkey', 'totalCases': '17,232,066', 'newCases': '', 'totalDeaths': '102,174', 'newDeaths': '', 'totalRecovered': 'N/A', 'activeCases': 'N/A'}"
-True,"{'country': 'Spain', 'totalCases': '13,914,811', 'newCases': '', 'totalDeaths': '121,760', 'newDeaths': '', 'totalRecovered': '13,762,417', 'activeCases': ''}"
-True,"{'country': 'Australia', 'totalCases': '11,747,594', 'newCases': '', 'totalDeaths': '22,581', 'newDeaths': '', 'totalRecovered': '11,719,547', 'activeCases': ''}"
-True,"{'country': 'Vietnam', 'totalCases': '11,622,730', 'newCases': '+33', 'totalDeaths': '43,206', 'newDeaths': '', 'totalRecovered': '10,640,479', 'activeCases': '+2'}"
-True,"{'country': 'Taiwan', 'totalCases': '10,241,520', 'newCases': '', 'totalDeaths': '19,005', 'newDeaths': '', 'totalRecovered': '10,222,514', 'activeCases': ''}"
-True,"{'country': 'Argentina', 'totalCases': '10,061,739', 'newCases': '', 'totalDeaths': '130,568', 'newDeaths': '', 'totalRecovered': '9,930,223', 'activeCases': '+930'}"
-True,"{'country': 'Netherlands', 'totalCases': '8,610,372', 'newCases': '', 'totalDeaths': '22,992', 'newDeaths': '', 'totalRecovered': '8,587,380', 'activeCases': ''}"
-True,"{'country': 'Mexico', 'totalCases': '7,633,355', 'newCases': '', 'totalDeaths': '334,336', 'newDeaths': '', 'totalRecovered': '6,885,378', 'activeCases': ''}"
-True,"{'country': 'Iran', 'totalCases': '7,613,532', 'newCases': '', 'totalDeaths': '146,321', 'newDeaths': '', 'totalRecovered': '7,374,684', 'activeCases': ''}"
-True,"{'country': 'Indonesia', 'totalCases': '6,813,095', 'newCases': '', 'totalDeaths': '161,916', 'newDeaths': '', 'totalRecovered': '6,646,293', 'activeCases': ''}"
-True,"{'country': 'Poland', 'totalCases': '6,518,800', 'newCases': '+5', 'totalDeaths': '119,638', 'newDeaths': '', 'totalRecovered': '5,335,940', 'activeCases': ''}"
-True,"{'country': 'Colombia', 'totalCases': '6,378,000', 'newCases': '', 'totalDeaths': '142,961', 'newDeaths': '', 'totalRecovered': '6,190,683', 'activeCases': ''}"
-True,"{'country': 'Greece', 'totalCases': '6,101,379', 'newCases': '', 'totalDeaths': '37,089', 'newDeaths': '', 'totalRecovered': '6,064,290', 'activeCases': ''}"
-True,"{'country': 'Austria', 'totalCases': '6,081,287', 'newCases': '', 'totalDeaths': '22,542', 'newDeaths': '', 'totalRecovered': '6,054,934', 'activeCases': ''}"
-True,"{'country': 'Portugal', 'totalCases': '5,601,153', 'newCases': '', 'totalDeaths': '27,094', 'newDeaths': '', 'totalRecovered': '5,569,326', 'activeCases': ''}"
-True,"{'country': 'Ukraine', 'totalCases': '5,557,995', 'newCases': '', 'totalDeaths': '112,418', 'newDeaths': '', 'totalRecovered': '5,445,577', 'activeCases': ''}"
-True,"{'country': 'Chile', 'totalCases': '5,290,820', 'newCases': '', 'totalDeaths': '64,497', 'newDeaths': '', 'totalRecovered': '5,226,068', 'activeCases': ''}"
-True,"{'country': 'Malaysia', 'totalCases': '5,123,264', 'newCases': '', 'totalDeaths': '37,165', 'newDeaths': '', 'totalRecovered': '5,073,384', 'activeCases': ''}"
-True,"{'country': 'Israel', 'totalCases': '4,833,089', 'newCases': '', 'totalDeaths': '12,625', 'newDeaths': '', 'totalRecovered': '4,798,473', 'activeCases': ''}"
-True,"{'country': 'Belgium', 'totalCases': '4,805,710', 'newCases': '', 'totalDeaths': '34,376', 'newDeaths': '', 'totalRecovered': '4,768,120', 'activeCases': ''}"
-True,"{'country': 'DPRK', 'totalCases': '4,772,813', 'newCases': '', 'totalDeaths': '74', 'newDeaths': '', 'totalRecovered': '4,772,739', 'activeCases': ''}"
-True,"{'country': 'Thailand', 'totalCases': '4,756,150', 'newCases': '', 'totalDeaths': '34,453', 'newDeaths': '', 'totalRecovered': '4,692,636', 'activeCases': ''}"
-True,"{'country': 'Canada', 'totalCases': '4,703,476', 'newCases': '', 'totalDeaths': '53,299', 'newDeaths': '', 'totalRecovered': '4,643,932', 'activeCases': '+273'}"
-True,"{'country': 'Czechia', 'totalCases': '4,644,010', 'newCases': '+9', 'totalDeaths': '42,815', 'newDeaths': '', 'totalRecovered': '4,600,712', 'activeCases': '+43'}"
-True,"{'country': 'Peru', 'totalCases': '4,518,506', 'newCases': '', 'totalDeaths': '221,645', 'newDeaths': '', 'totalRecovered': '4,296,533', 'activeCases': ''}"
-True,"{'country': 'Switzerland', 'totalCases': '4,409,089', 'newCases': '', 'totalDeaths': '14,452', 'newDeaths': '', 'totalRecovered': '4,393,116', 'activeCases': ''}"
-True,"{'country': 'Philippines', 'totalCases': '4,174,101', 'newCases': '', 'totalDeaths': '66,643', 'newDeaths': '', 'totalRecovered': '4,103,828', 'activeCases': ''}"
-True,"{'country': 'South Africa', 'totalCases': '4,076,463', 'newCases': '', 'totalDeaths': '102,595', 'newDeaths': '', 'totalRecovered': '3,912,506', 'activeCases': ''}"
-True,"{'country': 'Romania', 'totalCases': '3,413,851', 'newCases': '', 'totalDeaths': '68,266', 'newDeaths': '', 'totalRecovered': '3,342,637', 'activeCases': ''}"
-True,"{'country': 'Denmark', 'totalCases': '3,183,160', 'newCases': '+22', 'totalDeaths': '8,790', 'newDeaths': '+1', 'totalRecovered': '3,173,928', 'activeCases': '+1'}"
-True,"{'country': 'Hong Kong', 'totalCases': '2,917,331', 'newCases': '', 'totalDeaths': '13,819', 'newDeaths': '', 'totalRecovered': '2,901,249', 'activeCases': ''}"
-True,"{'country': 'Sweden', 'totalCases': '2,714,519', 'newCases': '', 'totalDeaths': '24,755', 'newDeaths': '', 'totalRecovered': '2,688,821', 'activeCases': '+33'}"
-True,"{'country': 'Singapore', 'totalCases': '2,549,083', 'newCases': '', 'totalDeaths': '1,875', 'newDeaths': '', 'totalRecovered': '2,149,583', 'activeCases': ''}"
-True,"{'country': 'Serbia', 'totalCases': '2,544,952', 'newCases': '', 'totalDeaths': '18,057', 'newDeaths': '', 'totalRecovered': '2,526,895', 'activeCases': ''}"
-True,"{'country': 'Iraq', 'totalCases': '2,465,545', 'newCases': '', 'totalDeaths': '25,375', 'newDeaths': '', 'totalRecovered': '2,439,497', 'activeCases': ''}"
-True,"{'country': 'New Zealand', 'totalCases': '2,450,818', 'newCases': '', 'totalDeaths': '4,701', 'newDeaths': '', 'totalRecovered': '2,443,623', 'activeCases': ''}"
-True,"{'country': 'Hungary', 'totalCases': '2,203,356', 'newCases': '', 'totalDeaths': '48,881', 'newDeaths': '', 'totalRecovered': '2,152,155', 'activeCases': ''}"
-True,"{'country': 'Bangladesh', 'totalCases': '2,045,159', 'newCases': '', 'totalDeaths': '29,476', 'newDeaths': '', 'totalRecovered': '1,998,448', 'activeCases': ''}"
-True,"{'country': 'Slovakia', 'totalCases': '1,866,983', 'newCases': '+58', 'totalDeaths': '21,167', 'newDeaths': '', 'totalRecovered': '1,845,690', 'activeCases': ''}"
-True,"{'country': 'Georgia', 'totalCases': '1,850,905', 'newCases': '', 'totalDeaths': '17,122', 'newDeaths': '', 'totalRecovered': '1,776,548', 'activeCases': ''}"
-True,"{'country': 'Jordan', 'totalCases': '1,746,997', 'newCases': '', 'totalDeaths': '14,122', 'newDeaths': '', 'totalRecovered': '1,731,007', 'activeCases': ''}"
-True,"{'country': 'Ireland', 'totalCases': '1,717,490', 'newCases': '', 'totalDeaths': '9,162', 'newDeaths': '', 'totalRecovered': '1,705,481', 'activeCases': ''}"
-True,"{'country': 'Pakistan', 'totalCases': '1,581,527', 'newCases': '', 'totalDeaths': '30,663', 'newDeaths': '', 'totalRecovered': '1,538,689', 'activeCases': ''}"
-True,"{'country': 'Norway', 'totalCases': '1,486,695', 'newCases': '', 'totalDeaths': '5,620', 'newDeaths': '', 'totalRecovered': '1,480,863', 'activeCases': ''}"
-True,"{'country': 'Finland', 'totalCases': '1,484,052', 'newCases': '', 'totalDeaths': '10,157', 'newDeaths': '', 'totalRecovered': '1,473,335', 'activeCases': '+29'}"
-True,"{'country': 'Kazakhstan', 'totalCases': '1,411,831', 'newCases': '', 'totalDeaths': '13,848', 'newDeaths': '', 'totalRecovered': '1,383,020', 'activeCases': ''}"
-True,"{'country': 'Slovenia', 'totalCases': '1,344,472', 'newCases': '+6', 'totalDeaths': '7,100', 'newDeaths': '', 'totalRecovered': '1,337,079', 'activeCases': ''}"
-True,"{'country': 'Lithuania', 'totalCases': '1,322,861', 'newCases': '+7', 'totalDeaths': '9,695', 'newDeaths': '', 'totalRecovered': '1,312,378', 'activeCases': '+47'}"
-True,"{'country': 'Bulgaria', 'totalCases': '1,310,550', 'newCases': '', 'totalDeaths': '38,448', 'newDeaths': '', 'totalRecovered': '1,270,456', 'activeCases': ''}"
-True,"{'country': 'Morocco', 'totalCases': '1,275,394', 'newCases': '', 'totalDeaths': '16,297', 'newDeaths': '', 'totalRecovered': '1,256,151', 'activeCases': ''}"
-True,"{'country': 'Guatemala', 'totalCases': '1,275,314', 'newCases': '', 'totalDeaths': '20,251', 'newDeaths': '', 'totalRecovered': '1,253,269', 'activeCases': ''}"
-True,"{'country': 'Croatia', 'totalCases': '1,274,281', 'newCases': '', 'totalDeaths': '18,292', 'newDeaths': '', 'totalRecovered': '1,255,780', 'activeCases': ''}"
-True,"{'country': 'Costa Rica', 'totalCases': '1,238,883', 'newCases': '', 'totalDeaths': '9,428', 'newDeaths': '', 'totalRecovered': '860,711', 'activeCases': ''}"
-True,"{'country': 'Lebanon', 'totalCases': '1,238,552', 'newCases': '', 'totalDeaths': '10,936', 'newDeaths': '', 'totalRecovered': '1,087,587', 'activeCases': ''}"
-True,"{'country': 'Bolivia', 'totalCases': '1,207,206', 'newCases': '', 'totalDeaths': '22,399', 'newDeaths': '', 'totalRecovered': '1,177,145', 'activeCases': ''}"
-True,"{'country': 'Tunisia', 'totalCases': '1,153,361', 'newCases': '', 'totalDeaths': '29,423', 'newDeaths': '', 'totalRecovered': 'N/A', 'activeCases': 'N/A'}"
-True,"{'country': 'Cuba', 'totalCases': '1,115,111', 'newCases': '', 'totalDeaths': '8,530', 'newDeaths': '', 'totalRecovered': '1,106,516', 'activeCases': ''}"
-True,"{'country': 'Ecuador', 'totalCases': '1,069,114', 'newCases': '', 'totalDeaths': '36,042', 'newDeaths': '', 'totalRecovered': '1,033,072', 'activeCases': ''}"
-True,"{'country': 'UAE', 'totalCases': '1,067,030', 'newCases': '', 'totalDeaths': '2,349', 'newDeaths': '', 'totalRecovered': '1,054,525', 'activeCases': ''}"
-True,"{'country': 'Panama', 'totalCases': '1,047,690', 'newCases': '', 'totalDeaths': '8,657', 'newDeaths': '', 'totalRecovered': '1,038,881', 'activeCases': ''}"
-True,"{'country': 'Uruguay', 'totalCases': '1,038,774', 'newCases': '', 'totalDeaths': '7,634', 'newDeaths': '', 'totalRecovered': '1,030,944', 'activeCases': ''}"
-True,"{'country': 'Mongolia', 'totalCases': '1,010,975', 'newCases': '', 'totalDeaths': '2,179', 'newDeaths': '', 'totalRecovered': '1,008,792', 'activeCases': ''}"
-True,"{'country': 'Nepal', 'totalCases': '1,003,417', 'newCases': '', 'totalDeaths': '12,031', 'newDeaths': '', 'totalRecovered': '991,322', 'activeCases': ''}"
-True,"{'country': 'Belarus', 'totalCases': '994,037', 'newCases': '', 'totalDeaths': '7,118', 'newDeaths': '', 'totalRecovered': '985,592', 'activeCases': ''}"
-True,"{'country': 'Latvia', 'totalCases': '978,354', 'newCases': '', 'totalDeaths': '6,392', 'newDeaths': '', 'totalRecovered': '971,406', 'activeCases': ''}"
-True,"{'country': 'Saudi Arabia', 'totalCases': '841,469', 'newCases': '', 'totalDeaths': '9,646', 'newDeaths': '', 'totalRecovered': '827,923', 'activeCases': ''}"
-True,"{'country': 'Azerbaijan', 'totalCases': '832,071', 'newCases': '', 'totalDeaths': '10,295', 'newDeaths': '', 'totalRecovered': '821,747', 'activeCases': ''}"
-True,"{'country': 'Paraguay', 'totalCases': '813,440', 'newCases': '', 'totalDeaths': '20,005', 'newDeaths': '', 'totalRecovered': 'N/A', 'activeCases': 'N/A'}"
-True,"{'country': 'Bahrain', 'totalCases': '725,931', 'newCases': '', 'totalDeaths': '1,570', 'newDeaths': '', 'totalRecovered': '724,015', 'activeCases': ''}"
-True,"{'country': 'Sri Lanka', 'totalCases': '672,577', 'newCases': '', 'totalDeaths': '16,882', 'newDeaths': '', 'totalRecovered': '655,682', 'activeCases': ''}"
-True,"{'country': 'Dominican Republic', 'totalCases': '667,048', 'newCases': '', 'totalDeaths': '4,384', 'newDeaths': '', 'totalRecovered': '644,785', 'activeCases': ''}"
-True,"{'country': 'Kuwait', 'totalCases': '666,081', 'newCases': '', 'totalDeaths': '2,570', 'newDeaths': '', 'totalRecovered': '660,237', 'activeCases': ''}"
-True,"{'country': 'Cyprus', 'totalCases': '660,854', 'newCases': '', 'totalDeaths': '1,364', 'newDeaths': '', 'totalRecovered': '659,490', 'activeCases': ''}"
-True,"{'country': 'Myanmar', 'totalCases': '641,167', 'newCases': '', 'totalDeaths': '19,495', 'newDeaths': '', 'totalRecovered': '619,922', 'activeCases': ''}"
-True,"{'country': 'Palestine', 'totalCases': '621,008', 'newCases': '', 'totalDeaths': '5,404', 'newDeaths': '', 'totalRecovered': '615,445', 'activeCases': ''}"
-True,"{'country': 'Moldova', 'totalCases': '620,927', 'newCases': '', 'totalDeaths': '12,126', 'newDeaths': '', 'totalRecovered': '504,142', 'activeCases': ''}"
-True,"{'country': 'Estonia', 'totalCases': '619,507', 'newCases': '', 'totalDeaths': '3,001', 'newDeaths': '', 'totalRecovered': '524,990', 'activeCases': ''}"
-True,"{'country': 'Venezuela', 'totalCases': '552,695', 'newCases': '', 'totalDeaths': '5,856', 'newDeaths': '', 'totalRecovered': '546,537', 'activeCases': ''}"
-True,"{'country': 'Egypt', 'totalCases': '516,023', 'newCases': '', 'totalDeaths': '24,613', 'newDeaths': '', 'totalRecovered': '442,182', 'activeCases': ''}"
-True,"{'country': 'Qatar', 'totalCases': '514,524', 'newCases': '', 'totalDeaths': '690', 'newDeaths': '', 'totalRecovered': '513,687', 'activeCases': ''}"
-True,"{'country': 'Libya', 'totalCases': '507,266', 'newCases': '', 'totalDeaths': '6,437', 'newDeaths': '', 'totalRecovered': '500,829', 'activeCases': ''}"
-True,"{'country': 'China', 'totalCases': '503,302', 'newCases': '', 'totalDeaths': '5,272', 'newDeaths': '', 'totalRecovered': '379,053', 'activeCases': ''}"
-True,"{'country': 'Ethiopia', 'totalCases': '500,991', 'newCases': '', 'totalDeaths': '7,574', 'newDeaths': '', 'totalRecovered': '488,165', 'activeCases': ''}"
-True,"{'country': 'Réunion', 'totalCases': '486,588', 'newCases': '', 'totalDeaths': '921', 'newDeaths': '', 'totalRecovered': '418,572', 'activeCases': ''}"
-True,"{'country': 'Honduras', 'totalCases': '473,547', 'newCases': '', 'totalDeaths': '11,161', 'newDeaths': '', 'totalRecovered': 'N/A', 'activeCases': 'N/A'}"
-True,"{'country': 'Armenia', 'totalCases': '449,293', 'newCases': '', 'totalDeaths': '8,751', 'newDeaths': '', 'totalRecovered': '435,162', 'activeCases': ''}"
-True,"{'country': 'Bosnia and Herzegovina', 'totalCases': '403,061', 'newCases': '', 'totalDeaths': '16,352', 'newDeaths': '', 'totalRecovered': '379,084', 'activeCases': ''}"
-True,"{'country': 'Oman', 'totalCases': '399,449', 'newCases': '', 'totalDeaths': '4,628', 'newDeaths': '', 'totalRecovered': '384,669', 'activeCases': ''}"
-True,"{'country': 'Zambia', 'totalCases': '349,287', 'newCases': '', 'totalDeaths': '4,069', 'newDeaths': '', 'totalRecovered': '341,316', 'activeCases': ''}"
-True,"{'country': 'North Macedonia', 'totalCases': '348,374', 'newCases': '', 'totalDeaths': '9,677', 'newDeaths': '', 'totalRecovered': '337,068', 'activeCases': ''}"
-True,"{'country': 'Kenya', 'totalCases': '343,918', 'newCases': '', 'totalDeaths': '5,689', 'newDeaths': '', 'totalRecovered': '337,309', 'activeCases': ''}"
-True,"{'country': 'Albania', 'totalCases': '334,726', 'newCases': '', 'totalDeaths': '3,602', 'newDeaths': '', 'totalRecovered': '329,428', 'activeCases': ''}"
-True,"{'country': 'Botswana', 'totalCases': '330,229', 'newCases': '', 'totalDeaths': '2,801', 'newDeaths': '', 'totalRecovered': '327,049', 'activeCases': ''}"
-True,"{'country': 'Luxembourg', 'totalCases': '319,959', 'newCases': '', 'totalDeaths': '1,232', 'newDeaths': '', 'totalRecovered': '316,690', 'activeCases': ''}"
-True,"{'country': 'Brunei', 'totalCases': '310,379', 'newCases': '', 'totalDeaths': '225', 'newDeaths': '', 'totalRecovered': '243,601', 'activeCases': ''}"
-True,"{'country': 'Montenegro', 'totalCases': '292,237', 'newCases': '', 'totalDeaths': '2,828', 'newDeaths': '', 'totalRecovered': '288,824', 'activeCases': ''}"
-True,"{'country': 'Algeria', 'totalCases': '271,852', 'newCases': '', 'totalDeaths': '6,881', 'newDeaths': '', 'totalRecovered': '183,061', 'activeCases': ''}"
-True,"{'country': 'Nigeria', 'totalCases': '266,675', 'newCases': '', 'totalDeaths': '3,155', 'newDeaths': '', 'totalRecovered': '259,953', 'activeCases': ''}"
-True,"{'country': 'Zimbabwe', 'totalCases': '265,716', 'newCases': '', 'totalDeaths': '5,713', 'newDeaths': '', 'totalRecovered': '258,888', 'activeCases': ''}"
-True,"{'country': 'Uzbekistan', 'totalCases': '253,662', 'newCases': '', 'totalDeaths': '1,637', 'newDeaths': '', 'totalRecovered': '241,486', 'activeCases': ''}"
-True,"{'country': 'Mozambique', 'totalCases': '233,417', 'newCases': '', 'totalDeaths': '2,243', 'newDeaths': '', 'totalRecovered': '228,805', 'activeCases': ''}"
-True,"{'country': 'Martinique', 'totalCases': '230,354', 'newCases': '', 'totalDeaths': '1,102', 'newDeaths': '', 'totalRecovered': 'N/A', 'activeCases': 'N/A'}"
-True,"{'country': 'Afghanistan', 'totalCases': '225,152', 'newCases': '+74', 'totalDeaths': '7,942', 'newDeaths': '', 'totalRecovered': '205,551', 'activeCases': '+73'}"
-True,"{'country': 'Laos', 'totalCases': '218,805', 'newCases': '', 'totalDeaths': '758', 'newDeaths': '', 'totalRecovered': 'N/A', 'activeCases': 'N/A'}"
-True,"{'country': 'Iceland', 'totalCases': '209,191', 'newCases': '', 'totalDeaths': '229', 'newDeaths': '', 'totalRecovered': 'N/A', 'activeCases': 'N/A'}"
-True,"{'country': 'Kyrgyzstan', 'totalCases': '206,897', 'newCases': '', 'totalDeaths': '2,991', 'newDeaths': '', 'totalRecovered': '196,406', 'activeCases': ''}"
-True,"{'country': 'Guadeloupe', 'totalCases': '203,235', 'newCases': '', 'totalDeaths': '1,021', 'newDeaths': '', 'totalRecovered': 'N/A', 'activeCases': 'N/A'}"
-True,"{'country': 'El Salvador', 'totalCases': '201,785', 'newCases': '', 'totalDeaths': '4,230', 'newDeaths': '', 'totalRecovered': '179,410', 'activeCases': ''}"
-True,"{'country': 'Trinidad and Tobago', 'totalCases': '191,496', 'newCases': '', 'totalDeaths': '4,390', 'newDeaths': '', 'totalRecovered': '187,078', 'activeCases': ''}"
-True,"{'country': 'Maldives', 'totalCases': '186,687', 'newCases': '', 'totalDeaths': '316', 'newDeaths': '', 'totalRecovered': '163,687', 'activeCases': ''}"
-True,"{'country': 'Namibia', 'totalCases': '171,998', 'newCases': '', 'totalDeaths': '4,098', 'newDeaths': '', 'totalRecovered': '167,099', 'activeCases': ''}"
-True,"{'country': 'Ghana', 'totalCases': '171,740', 'newCases': '', 'totalDeaths': '1,462', 'newDeaths': '', 'totalRecovered': '170,255', 'activeCases': ''}"
-True,"{'country': 'Uganda', 'totalCases': '171,729', 'newCases': '', 'totalDeaths': '3,632', 'newDeaths': '', 'totalRecovered': '100,431', 'activeCases': ''}"
-True,"{'country': 'Jamaica', 'totalCases': '155,860', 'newCases': '', 'totalDeaths': '3,596', 'newDeaths': '', 'totalRecovered': '103,032', 'activeCases': ''}"
-True,"{'country': 'Cambodia', 'totalCases': '138,940', 'newCases': '', 'totalDeaths': '3,056', 'newDeaths': '', 'totalRecovered': '135,884', 'activeCases': ''}"
-True,"{'country': 'Rwanda', 'totalCases': '133,194', 'newCases': '', 'totalDeaths': '1,468', 'newDeaths': '', 'totalRecovered': '131,647', 'activeCases': ''}"
-True,"{'country': 'Cameroon', 'totalCases': '125,090', 'newCases': '', 'totalDeaths': '1,974', 'newDeaths': '', 'totalRecovered': '122,807', 'activeCases': ''}"
-True,"{'country': 'Malta', 'totalCases': '119,875', 'newCases': '', 'totalDeaths': '857', 'newDeaths': '', 'totalRecovered': '118,310', 'activeCases': ''}"
-True,"{'country': 'Barbados', 'totalCases': '109,503', 'newCases': '', 'totalDeaths': '620', 'newDeaths': '', 'totalRecovered': '108,647', 'activeCases': ''}"
-True,"{'country': 'Angola', 'totalCases': '105,384', 'newCases': '', 'totalDeaths': '1,934', 'newDeaths': '', 'totalRecovered': '103,419', 'activeCases': ''}"
-True,"{'country': 'Channel Islands', 'totalCases': '101,717', 'newCases': '', 'totalDeaths': '228', 'newDeaths': '', 'totalRecovered': '101,321', 'activeCases': ''}"
-True,"{'country': 'French Guiana', 'totalCases': '98,041', 'newCases': '', 'totalDeaths': '420', 'newDeaths': '', 'totalRecovered': '11,254', 'activeCases': ''}"
-True,"{'country': 'DRC', 'totalCases': '97,697', 'newCases': '', 'totalDeaths': '1,468', 'newDeaths': '', 'totalRecovered': '84,489', 'activeCases': ''}"
-True,"{'country': 'Senegal', 'totalCases': '89,014', 'newCases': '', 'totalDeaths': '1,971', 'newDeaths': '', 'totalRecovered': '87,024', 'activeCases': ''}"
-True,"{'country': 'Malawi', 'totalCases': '88,835', 'newCases': '', 'totalDeaths': '2,686', 'newDeaths': '', 'totalRecovered': '85,651', 'activeCases': ''}"
-True,"{'country': 'Ivory Coast', 'totalCases': '88,338', 'newCases': '', 'totalDeaths': '835', 'newDeaths': '', 'totalRecovered': '87,497', 'activeCases': ''}"
-True,"{'country': 'Suriname', 'totalCases': '82,588', 'newCases': '', 'totalDeaths': '1,408', 'newDeaths': '', 'totalRecovered': 'N/A', 'activeCases': 'N/A'}"
-True,"{'country': 'New Caledonia', 'totalCases': '79,922', 'newCases': '', 'totalDeaths': '314', 'newDeaths': '', 'totalRecovered': '79,605', 'activeCases': ''}"
-True,"{'country': 'French Polynesia', 'totalCases': '78,621', 'newCases': '', 'totalDeaths': '649', 'newDeaths': '', 'totalRecovered': 'N/A', 'activeCases': 'N/A'}"
-True,"{'country': 'Eswatini', 'totalCases': '74,882', 'newCases': '', 'totalDeaths': '1,427', 'newDeaths': '', 'totalRecovered': '73,116', 'activeCases': ''}"
-True,"{'country': 'Guyana', 'totalCases': '73,385', 'newCases': '', 'totalDeaths': '1,299', 'newDeaths': '', 'totalRecovered': '72,013', 'activeCases': ''}"
-True,"{'country': 'Belize', 'totalCases': '70,782', 'newCases': '', 'totalDeaths': '688', 'newDeaths': '', 'totalRecovered': '70,085', 'activeCases': ''}"
-True,"{'country': 'Fiji', 'totalCases': '69,117', 'newCases': '', 'totalDeaths': '885', 'newDeaths': '', 'totalRecovered': '67,226', 'activeCases': ''}"
-True,"{'country': 'Madagascar', 'totalCases': '68,289', 'newCases': '', 'totalDeaths': '1,425', 'newDeaths': '', 'totalRecovered': '66,862', 'activeCases': ''}"
-True,"{'country': 'Cabo Verde', 'totalCases': '64,238', 'newCases': '', 'totalDeaths': '415', 'newDeaths': '', 'totalRecovered': '63,755', 'activeCases': ''}"
-True,"{'country': 'Sudan', 'totalCases': '63,993', 'newCases': '', 'totalDeaths': '5,046', 'newDeaths': '', 'totalRecovered': '58,947', 'activeCases': ''}"
-True,"{'country': 'Mauritania', 'totalCases': '63,715', 'newCases': '', 'totalDeaths': '997', 'newDeaths': '', 'totalRecovered': '62,471', 'activeCases': ''}"
-True,"{'country': 'Bhutan', 'totalCases': '62,694', 'newCases': '', 'totalDeaths': '21', 'newDeaths': '', 'totalRecovered': '61,564', 'activeCases': ''}"
-True,"{'country': 'Syria', 'totalCases': '57,743', 'newCases': '', 'totalDeaths': '3,165', 'newDeaths': '', 'totalRecovered': '54,578', 'activeCases': ''}"
-True,"{'country': 'Burundi', 'totalCases': '54,239', 'newCases': '', 'totalDeaths': '38', 'newDeaths': '', 'totalRecovered': '53,569', 'activeCases': ''}"
-True,"{'country': 'Seychelles', 'totalCases': '50,937', 'newCases': '', 'totalDeaths': '172', 'newDeaths': '', 'totalRecovered': '50,750', 'activeCases': ''}"
-True,"{'country': 'Gabon', 'totalCases': '48,992', 'newCases': '', 'totalDeaths': '307', 'newDeaths': '', 'totalRecovered': '48,674', 'activeCases': ''}"
-True,"{'country': 'Andorra', 'totalCases': '48,015', 'newCases': '', 'totalDeaths': '165', 'newDeaths': '', 'totalRecovered': '47,563', 'activeCases': ''}"
-True,"{'country': 'Papua New Guinea', 'totalCases': '46,864', 'newCases': '', 'totalDeaths': '670', 'newDeaths': '', 'totalRecovered': '43,982', 'activeCases': ''}"
-True,"{'country': 'Curaçao', 'totalCases': '45,986', 'newCases': '', 'totalDeaths': '295', 'newDeaths': '', 'totalRecovered': '44,720', 'activeCases': ''}"
-True,"{'country': 'Aruba', 'totalCases': '44,224', 'newCases': '', 'totalDeaths': '292', 'newDeaths': '', 'totalRecovered': '42,438', 'activeCases': ''}"
-True,"{'country': 'Tanzania', 'totalCases': '43,078', 'newCases': '', 'totalDeaths': '846', 'newDeaths': '', 'totalRecovered': 'N/A', 'activeCases': 'N/A'}"
-True,"{'country': 'Mauritius', 'totalCases': '42,848', 'newCases': '', 'totalDeaths': '1,051', 'newDeaths': '', 'totalRecovered': '41,117', 'activeCases': ''}"
-True,"{'country': 'Mayotte', 'totalCases': '42,027', 'newCases': '', 'totalDeaths': '188', 'newDeaths': '', 'totalRecovered': 'N/A', 'activeCases': 'N/A'}"
-True,"{'country': 'Togo', 'totalCases': '39,513', 'newCases': '', 'totalDeaths': '290', 'newDeaths': '', 'totalRecovered': '39,216', 'activeCases': ''}"
-True,"{'country': 'Guinea', 'totalCases': '38,563', 'newCases': '', 'totalDeaths': '468', 'newDeaths': '', 'totalRecovered': '37,757', 'activeCases': ''}"
-True,"{'country': 'Bahamas', 'totalCases': '38,084', 'newCases': '', 'totalDeaths': '844', 'newDeaths': '', 'totalRecovered': '36,366', 'activeCases': ''}"
-True,"{'country': 'Isle of Man', 'totalCases': '38,008', 'newCases': '', 'totalDeaths': '116', 'newDeaths': '', 'totalRecovered': 'N/A', 'activeCases': 'N/A'}"
-True,"{'country': 'Lesotho', 'totalCases': '34,790', 'newCases': '', 'totalDeaths': '723', 'newDeaths': '', 'totalRecovered': '25,980', 'activeCases': ''}"
-True,"{'country': 'Faeroe Islands', 'totalCases': '34,658', 'newCases': '', 'totalDeaths': '28', 'newDeaths': '', 'totalRecovered': 'N/A', 'activeCases': 'N/A'}"
-True,"{'country': 'Haiti', 'totalCases': '34,306', 'newCases': '', 'totalDeaths': '860', 'newDeaths': '', 'totalRecovered': '33,372', 'activeCases': ''}"
-True,"{'country': 'Mali', 'totalCases': '33,151', 'newCases': '', 'totalDeaths': '743', 'newDeaths': '', 'totalRecovered': '32,332', 'activeCases': ''}"
-True,"{'country': 'Cayman Islands', 'totalCases': '31,472', 'newCases': '', 'totalDeaths': '37', 'newDeaths': '', 'totalRecovered': '8,553', 'activeCases': ''}"
-True,"{'country': 'Saint Lucia', 'totalCases': '30,052', 'newCases': '', 'totalDeaths': '409', 'newDeaths': '', 'totalRecovered': '29,095', 'activeCases': ''}"
-True,"{'country': 'Benin', 'totalCases': '28,014', 'newCases': '', 'totalDeaths': '163', 'newDeaths': '', 'totalRecovered': '27,847', 'activeCases': ''}"
-True,"{'country': 'Somalia', 'totalCases': '27,334', 'newCases': '', 'totalDeaths': '1,361', 'newDeaths': '', 'totalRecovered': '13,182', 'activeCases': ''}"
-True,"{'country': 'Micronesia', 'totalCases': '26,530', 'newCases': '', 'totalDeaths': '65', 'newDeaths': '', 'totalRecovered': 'N/A', 'activeCases': 'N/A'}"
-True,"{'country': 'Congo', 'totalCases': '25,375', 'newCases': '', 'totalDeaths': '386', 'newDeaths': '', 'totalRecovered': '24,006', 'activeCases': ''}"
-True,"{'country': 'Solomon Islands', 'totalCases': '24,575', 'newCases': '', 'totalDeaths': '153', 'newDeaths': '', 'totalRecovered': 'N/A', 'activeCases': 'N/A'}"
-True,"{'country': 'San Marino', 'totalCases': '24,382', 'newCases': '', 'totalDeaths': '125', 'newDeaths': '', 'totalRecovered': '24,249', 'activeCases': ''}"
-True,"{'country': 'Timor-Leste', 'totalCases': '23,460', 'newCases': '', 'totalDeaths': '138', 'newDeaths': '', 'totalRecovered': '23,102', 'activeCases': ''}"
-True,"{'country': 'Burkina Faso', 'totalCases': '22,056', 'newCases': '', 'totalDeaths': '396', 'newDeaths': '', 'totalRecovered': '21,596', 'activeCases': ''}"
-True,"{'country': 'Liechtenstein', 'totalCases': '21,474', 'newCases': '', 'totalDeaths': '94', 'newDeaths': '', 'totalRecovered': '21,352', 'activeCases': ''}"
-True,"{'country': 'Gibraltar', 'totalCases': '20,550', 'newCases': '', 'totalDeaths': '113', 'newDeaths': '', 'totalRecovered': '16,579', 'activeCases': ''}"
-True,"{'country': 'Grenada', 'totalCases': '19,693', 'newCases': '', 'totalDeaths': '238', 'newDeaths': '', 'totalRecovered': '19,358', 'activeCases': ''}"
-True,"{'country': 'Bermuda', 'totalCases': '18,860', 'newCases': '', 'totalDeaths': '165', 'newDeaths': '', 'totalRecovered': '18,685', 'activeCases': ''}"
-True,"{'country': 'Nicaragua', 'totalCases': '18,491', 'newCases': '', 'totalDeaths': '225', 'newDeaths': '', 'totalRecovered': '4,225', 'activeCases': ''}"
-True,"{'country': 'South Sudan', 'totalCases': '18,368', 'newCases': '', 'totalDeaths': '138', 'newDeaths': '', 'totalRecovered': '18,115', 'activeCases': ''}"
-True,"{'country': 'Tajikistan', 'totalCases': '17,786', 'newCases': '', 'totalDeaths': '125', 'newDeaths': '', 'totalRecovered': '17,264', 'activeCases': ''}"
-True,"{'country': 'Equatorial Guinea', 'totalCases': '17,229', 'newCases': '', 'totalDeaths': '183', 'newDeaths': '', 'totalRecovered': '16,907', 'activeCases': ''}"
-True,"{'country': 'Monaco', 'totalCases': '16,881', 'newCases': '', 'totalDeaths': '67', 'newDeaths': '', 'totalRecovered': '15,992', 'activeCases': ''}"
-True,"{'country': 'Tonga', 'totalCases': '16,819', 'newCases': '', 'totalDeaths': '13', 'newDeaths': '', 'totalRecovered': '15,638', 'activeCases': ''}"
-True,"{'country': 'Samoa', 'totalCases': '16,775', 'newCases': '', 'totalDeaths': '31', 'newDeaths': '', 'totalRecovered': '1,605', 'activeCases': ''}"
-True,"{'country': 'Marshall Islands', 'totalCases': '16,119', 'newCases': '', 'totalDeaths': '17', 'newDeaths': '', 'totalRecovered': '16,083', 'activeCases': ''}"
-True,"{'country': 'Dominica', 'totalCases': '15,760', 'newCases': '', 'totalDeaths': '74', 'newDeaths': '', 'totalRecovered': '15,673', 'activeCases': ''}"
-True,"{'country': 'Djibouti', 'totalCases': '15,690', 'newCases': '', 'totalDeaths': '189', 'newDeaths': '', 'totalRecovered': '15,427', 'activeCases': ''}"
-True,"{'country': 'CAR', 'totalCases': '15,368', 'newCases': '', 'totalDeaths': '113', 'newDeaths': '', 'totalRecovered': '15,200', 'activeCases': ''}"
-True,"{'country': 'Macao', 'totalCases': '14,735', 'newCases': '', 'totalDeaths': '123', 'newDeaths': '', 'totalRecovered': '3,487', 'activeCases': ''}"
-True,"{'country': 'Gambia', 'totalCases': '12,626', 'newCases': '', 'totalDeaths': '372', 'newDeaths': '', 'totalRecovered': '12,189', 'activeCases': ''}"
-True,"{'country': 'Saint Martin', 'totalCases': '12,324', 'newCases': '', 'totalDeaths': '63', 'newDeaths': '', 'totalRecovered': '1,399', 'activeCases': ''}"
-True,"{'country': 'Vanuatu', 'totalCases': '12,019', 'newCases': '', 'totalDeaths': '14', 'newDeaths': '', 'totalRecovered': '11,976', 'activeCases': ''}"
-True,"{'country': 'Greenland', 'totalCases': '11,971', 'newCases': '', 'totalDeaths': '21', 'newDeaths': '', 'totalRecovered': '2,761', 'activeCases': ''}"
-True,"{'country': 'Yemen', 'totalCases': '11,945', 'newCases': '', 'totalDeaths': '2,159', 'newDeaths': '', 'totalRecovered': '9,124', 'activeCases': ''}"
-True,"{'country': 'Caribbean Netherlands', 'totalCases': '11,682', 'newCases': '', 'totalDeaths': '38', 'newDeaths': '', 'totalRecovered': '10,476', 'activeCases': ''}"
-True,"{'country': 'Sint Maarten', 'totalCases': '11,051', 'newCases': '', 'totalDeaths': '92', 'newDeaths': '', 'totalRecovered': '10,905', 'activeCases': ''}"
-True,"{'country': 'Eritrea', 'totalCases': '10,189', 'newCases': '', 'totalDeaths': '103', 'newDeaths': '', 'totalRecovered': '10,086', 'activeCases': ''}"
-True,"{'country': 'Niger', 'totalCases': '9,931', 'newCases': '', 'totalDeaths': '312', 'newDeaths': '', 'totalRecovered': '8,890', 'activeCases': ''}"
-True,"{'country': 'St. Vincent Grenadines', 'totalCases': '9,631', 'newCases': '', 'totalDeaths': '124', 'newDeaths': '', 'totalRecovered': '9,493', 'activeCases': ''}"
-True,"{'country': 'Guinea-Bissau', 'totalCases': '9,614', 'newCases': '', 'totalDeaths': '177', 'newDeaths': '', 'totalRecovered': '8,929', 'activeCases': ''}"
-True,"{'country': 'Comoros', 'totalCases': '9,109', 'newCases': '', 'totalDeaths': '161', 'newDeaths': '', 'totalRecovered': '8,939', 'activeCases': ''}"
-True,"{'country': 'Antigua and Barbuda', 'totalCases': '9,106', 'newCases': '', 'totalDeaths': '146', 'newDeaths': '', 'totalRecovered': '8,954', 'activeCases': ''}"
-True,"{'country': 'Liberia', 'totalCases': '8,090', 'newCases': '', 'totalDeaths': '295', 'newDeaths': '', 'totalRecovered': '7,783', 'activeCases': ''}"
-True,"{'country': 'Sierra Leone', 'totalCases': '7,762', 'newCases': '', 'totalDeaths': '126', 'newDeaths': '', 'totalRecovered': 'N/A', 'activeCases': 'N/A'}"
-True,"{'country': 'Chad', 'totalCases': '7,701', 'newCases': '', 'totalDeaths': '194', 'newDeaths': '', 'totalRecovered': '4,874', 'activeCases': ''}"
-True,"{'country': 'British Virgin Islands', 'totalCases': '7,305', 'newCases': '', 'totalDeaths': '64', 'newDeaths': '', 'totalRecovered': 'N/A', 'activeCases': 'N/A'}"
-True,"{'country': 'Cook Islands', 'totalCases': '7,152', 'newCases': '', 'totalDeaths': '2', 'newDeaths': '', 'totalRecovered': '7,150', 'activeCases': ''}"
-True,"{'country': 'Turks and Caicos', 'totalCases': '6,630', 'newCases': '', 'totalDeaths': '39', 'newDeaths': '', 'totalRecovered': '6,576', 'activeCases': ''}"
-True,"{'country': 'Saint Kitts and Nevis', 'totalCases': '6,607', 'newCases': '', 'totalDeaths': '48', 'newDeaths': '', 'totalRecovered': '6,559', 'activeCases': ''}"
-True,"{'country': 'Sao Tome and Principe', 'totalCases': '6,595', 'newCases': '', 'totalDeaths': '80', 'newDeaths': '', 'totalRecovered': '6,509', 'activeCases': ''}"
-True,"{'country': 'Palau', 'totalCases': '6,228', 'newCases': '', 'totalDeaths': '9', 'newDeaths': '', 'totalRecovered': '6,211', 'activeCases': ''}"
-True,"{'country': 'St. Barth', 'totalCases': '5,507', 'newCases': '', 'totalDeaths': '6', 'newDeaths': '', 'totalRecovered': 'N/A', 'activeCases': 'N/A'}"
-True,"{'country': 'Nauru', 'totalCases': '5,393', 'newCases': '', 'totalDeaths': '1', 'newDeaths': '', 'totalRecovered': '5,347', 'activeCases': ''}"
-True,"{'country': 'Kiribati', 'totalCases': '5,085', 'newCases': '', 'totalDeaths': '24', 'newDeaths': '', 'totalRecovered': '2,703', 'activeCases': ''}"
-True,"{'country': 'Anguilla', 'totalCases': '3,904', 'newCases': '', 'totalDeaths': '12', 'newDeaths': '', 'totalRecovered': '3,879', 'activeCases': ''}"
-True,"{'country': 'Wallis and Futuna', 'totalCases': '3,550', 'newCases': '', 'totalDeaths': '8', 'newDeaths': '', 'totalRecovered': '438', 'activeCases': ''}"
-True,"{'country': 'Saint Pierre Miquelon', 'totalCases': '3,452', 'newCases': '', 'totalDeaths': '2', 'newDeaths': '', 'totalRecovered': '2,449', 'activeCases': ''}"
-True,"{'country': 'Tuvalu', 'totalCases': '2,943', 'newCases': '', 'totalDeaths': '1', 'newDeaths': '', 'totalRecovered': '', 'activeCases': ''}"
-True,"{'country': 'Saint Helena', 'totalCases': '2,166', 'newCases': '', 'totalDeaths': '', 'newDeaths': '', 'totalRecovered': '2', 'activeCases': ''}"
-True,"{'country': 'Falkland Islands', 'totalCases': '1,930', 'newCases': '', 'totalDeaths': '', 'newDeaths': '', 'totalRecovered': '1,930', 'activeCases': ''}"
-True,"{'country': 'Montserrat', 'totalCases': '1,403', 'newCases': '', 'totalDeaths': '8', 'newDeaths': '', 'totalRecovered': '1,376', 'activeCases': ''}"
-True,"{'country': 'Niue', 'totalCases': '880', 'newCases': '+1', 'totalDeaths': '', 'newDeaths': '', 'totalRecovered': '851', 'activeCases': '+5'}"
-True,"{'country': 'Diamond Princess', 'totalCases': '712', 'newCases': '', 'totalDeaths': '13', 'newDeaths': '', 'totalRecovered': '699', 'activeCases': ''}"
-True,"{'country': 'Tokelau', 'totalCases': '80', 'newCases': '', 'totalDeaths': '', 'newDeaths': '', 'totalRecovered': '', 'activeCases': ''}"
-True,"{'country': 'Vatican City', 'totalCases': '29', 'newCases': '', 'totalDeaths': '', 'newDeaths': '', 'totalRecovered': '29', 'activeCases': ''}"
-True,"{'country': 'Western Sahara', 'totalCases': '10', 'newCases': '', 'totalDeaths': '1', 'newDeaths': '', 'totalRecovered': '9', 'activeCases': ''}"
-True,"{'country': 'MS Zaandam', 'totalCases': '9', 'newCases': '', 'totalDeaths': '2', 'newDeaths': '', 'totalRecovered': '7', 'activeCases': ''}"
+country,totalCases,newCases,totalDeaths,newDeaths,totalRecovered,activeCases
+USA,"107,969,972",,"1,173,394",,"105,906,752",
+India,"44,996,963",,"531,928",,"44,463,533",
+France,"40,138,560",,"167,642",,"39,970,918",
+Germany,"38,428,685",,"174,352",,"38,240,600",
+Brazil,"37,758,545",,"705,170",,"36,249,161",
+S. Korea,"34,179,800",,"35,687",,"33,701,683","+55,879"
+Japan,"33,803,572",,"74,694",,N/A,N/A
+Italy,"25,940,840",,"191,211",,"25,629,876",
+UK,"24,671,491",,"228,707",,"24,428,140",+966
+Russia,"22,986,528",,"399,972",,"22,439,760",
+Turkey,"17,232,066",,"102,174",,N/A,N/A
+Spain,"13,914,811",,"121,760",,"13,762,417",
+Australia,"11,747,594",,"22,581",,"11,719,547",
+Vietnam,"11,622,730",+33,"43,206",,"10,640,479",+2
+Taiwan,"10,241,520",,"19,005",,"10,222,514",
+Argentina,"10,061,739",,"130,568",,"9,930,223",+930
+Netherlands,"8,610,372",,"22,992",,"8,587,380",
+Mexico,"7,633,355",,"334,336",,"6,885,378",
+Iran,"7,613,532",,"146,321",,"7,374,684",
+Indonesia,"6,813,095",,"161,916",,"6,646,293",
+Poland,"6,518,800",+5,"119,638",,"5,335,940",
+Colombia,"6,378,000",,"142,961",,"6,190,683",
+Greece,"6,101,379",,"37,089",,"6,064,290",
+Austria,"6,081,287",,"22,542",,"6,054,934",
+Portugal,"5,601,153",,"27,094",,"5,569,326",
+Ukraine,"5,557,995",,"112,418",,"5,445,577",
+Chile,"5,290,820",,"64,497",,"5,226,068",
+Malaysia,"5,123,264",,"37,165",,"5,073,384",
+Israel,"4,833,089",,"12,625",,"4,798,473",
+Belgium,"4,805,710",,"34,376",,"4,768,120",
+DPRK,"4,772,813",,74,,"4,772,739",
+Thailand,"4,756,150",,"34,453",,"4,692,636",
+Canada,"4,703,476",,"53,299",,"4,643,932",+273
+Czechia,"4,644,010",+9,"42,815",,"4,600,712",+43
+Peru,"4,518,506",,"221,645",,"4,296,533",
+Switzerland,"4,409,089",,"14,452",,"4,393,116",
+Philippines,"4,174,101",,"66,643",,"4,103,828",
+South Africa,"4,076,463",,"102,595",,"3,912,506",
+Romania,"3,413,851",,"68,266",,"3,342,637",
+Denmark,"3,183,160",+22,"8,790",+1,"3,173,928",+1
+Hong Kong,"2,917,331",,"13,819",,"2,901,249",
+Sweden,"2,714,519",,"24,755",,"2,688,821",+33
+Singapore,"2,549,083",,"1,875",,"2,149,583",
+Serbia,"2,544,952",,"18,057",,"2,526,895",
+Iraq,"2,465,545",,"25,375",,"2,439,497",
+New Zealand,"2,450,818",,"4,701",,"2,443,623",
+Hungary,"2,203,356",,"48,881",,"2,152,155",
+Bangladesh,"2,045,159",,"29,476",,"1,998,448",
+Slovakia,"1,866,983",+58,"21,167",,"1,845,690",
+Georgia,"1,850,905",,"17,122",,"1,776,548",
+Jordan,"1,746,997",,"14,122",,"1,731,007",
+Ireland,"1,717,490",,"9,162",,"1,705,481",
+Pakistan,"1,581,527",,"30,663",,"1,538,689",
+Norway,"1,486,695",,"5,620",,"1,480,863",
+Finland,"1,484,052",,"10,157",,"1,473,335",+29
+Kazakhstan,"1,411,831",,"13,848",,"1,383,020",
+Slovenia,"1,344,472",+6,"7,100",,"1,337,079",
+Lithuania,"1,322,861",+7,"9,695",,"1,312,378",+47
+Bulgaria,"1,310,550",,"38,448",,"1,270,456",
+Morocco,"1,275,394",,"16,297",,"1,256,151",
+Guatemala,"1,275,314",,"20,251",,"1,253,269",
+Croatia,"1,274,281",,"18,292",,"1,255,780",
+Costa Rica,"1,238,883",,"9,428",,"860,711",
+Lebanon,"1,238,552",,"10,936",,"1,087,587",
+Bolivia,"1,207,206",,"22,399",,"1,177,145",
+Tunisia,"1,153,361",,"29,423",,N/A,N/A
+Cuba,"1,115,111",,"8,530",,"1,106,516",
+Ecuador,"1,069,114",,"36,042",,"1,033,072",
+UAE,"1,067,030",,"2,349",,"1,054,525",
+Panama,"1,047,690",,"8,657",,"1,038,881",
+Uruguay,"1,038,774",,"7,634",,"1,030,944",
+Mongolia,"1,010,975",,"2,179",,"1,008,792",
+Nepal,"1,003,417",,"12,031",,"991,322",
+Belarus,"994,037",,"7,118",,"985,592",
+Latvia,"978,354",,"6,392",,"971,406",
+Saudi Arabia,"841,469",,"9,646",,"827,923",
+Azerbaijan,"832,071",,"10,295",,"821,747",
+Paraguay,"813,440",,"20,005",,N/A,N/A
+Bahrain,"725,931",,"1,570",,"724,015",
+Sri Lanka,"672,577",,"16,882",,"655,682",
+Dominican Republic,"667,048",,"4,384",,"644,785",
+Kuwait,"666,081",,"2,570",,"660,237",
+Cyprus,"660,854",,"1,364",,"659,490",
+Myanmar,"641,167",,"19,495",,"619,922",
+Palestine,"621,008",,"5,404",,"615,445",
+Moldova,"620,927",,"12,126",,"504,142",
+Estonia,"619,507",,"3,001",,"524,990",
+Venezuela,"552,695",,"5,856",,"546,537",
+Egypt,"516,023",,"24,613",,"442,182",
+Qatar,"514,524",,690,,"513,687",
+Libya,"507,266",,"6,437",,"500,829",
+China,"503,302",,"5,272",,"379,053",
+Ethiopia,"500,991",,"7,574",,"488,165",
+Réunion,"486,588",,921,,"418,572",
+Honduras,"473,547",,"11,161",,N/A,N/A
+Armenia,"449,293",,"8,751",,"435,162",
+Bosnia and Herzegovina,"403,061",,"16,352",,"379,084",
+Oman,"399,449",,"4,628",,"384,669",
+Zambia,"349,287",,"4,069",,"341,316",
+North Macedonia,"348,374",,"9,677",,"337,068",
+Kenya,"343,918",,"5,689",,"337,309",
+Albania,"334,726",,"3,602",,"329,428",
+Botswana,"330,229",,"2,801",,"327,049",
+Luxembourg,"319,959",,"1,232",,"316,690",
+Brunei,"310,379",,225,,"243,601",
+Montenegro,"292,237",,"2,828",,"288,824",
+Algeria,"271,852",,"6,881",,"183,061",
+Nigeria,"266,675",,"3,155",,"259,953",
+Zimbabwe,"265,716",,"5,713",,"258,888",
+Uzbekistan,"253,662",,"1,637",,"241,486",
+Mozambique,"233,417",,"2,243",,"228,805",
+Martinique,"230,354",,"1,102",,N/A,N/A
+Afghanistan,"225,152",+74,"7,942",,"205,551",+73
+Laos,"218,805",,758,,N/A,N/A
+Iceland,"209,191",,229,,N/A,N/A
+Kyrgyzstan,"206,897",,"2,991",,"196,406",
+Guadeloupe,"203,235",,"1,021",,N/A,N/A
+El Salvador,"201,785",,"4,230",,"179,410",
+Trinidad and Tobago,"191,496",,"4,390",,"187,078",
+Maldives,"186,687",,316,,"163,687",
+Namibia,"171,998",,"4,098",,"167,099",
+Ghana,"171,740",,"1,462",,"170,255",
+Uganda,"171,729",,"3,632",,"100,431",
+Jamaica,"155,860",,"3,596",,"103,032",
+Cambodia,"138,940",,"3,056",,"135,884",
+Rwanda,"133,194",,"1,468",,"131,647",
+Cameroon,"125,090",,"1,974",,"122,807",
+Malta,"119,875",,857,,"118,310",
+Barbados,"109,503",,620,,"108,647",
+Angola,"105,384",,"1,934",,"103,419",
+Channel Islands,"101,717",,228,,"101,321",
+French Guiana,"98,041",,420,,"11,254",
+DRC,"97,697",,"1,468",,"84,489",
+Senegal,"89,014",,"1,971",,"87,024",
+Malawi,"88,835",,"2,686",,"85,651",
+Ivory Coast,"88,338",,835,,"87,497",
+Suriname,"82,588",,"1,408",,N/A,N/A
+New Caledonia,"79,922",,314,,"79,605",
+French Polynesia,"78,621",,649,,N/A,N/A
+Eswatini,"74,882",,"1,427",,"73,116",
+Guyana,"73,385",,"1,299",,"72,013",
+Belize,"70,782",,688,,"70,085",
+Fiji,"69,117",,885,,"67,226",
+Madagascar,"68,289",,"1,425",,"66,862",
+Cabo Verde,"64,238",,415,,"63,755",
+Sudan,"63,993",,"5,046",,"58,947",
+Mauritania,"63,715",,997,,"62,471",
+Bhutan,"62,694",,21,,"61,564",
+Syria,"57,743",,"3,165",,"54,578",
+Burundi,"54,239",,38,,"53,569",
+Seychelles,"50,937",,172,,"50,750",
+Gabon,"48,992",,307,,"48,674",
+Andorra,"48,015",,165,,"47,563",
+Papua New Guinea,"46,864",,670,,"43,982",
+Curaçao,"45,986",,295,,"44,720",
+Aruba,"44,224",,292,,"42,438",
+Tanzania,"43,078",,846,,N/A,N/A
+Mauritius,"42,848",,"1,051",,"41,117",
+Mayotte,"42,027",,188,,N/A,N/A
+Togo,"39,513",,290,,"39,216",
+Guinea,"38,563",,468,,"37,757",
+Bahamas,"38,084",,844,,"36,366",
+Isle of Man,"38,008",,116,,N/A,N/A
+Lesotho,"34,790",,723,,"25,980",
+Faeroe Islands,"34,658",,28,,N/A,N/A
+Haiti,"34,306",,860,,"33,372",
+Mali,"33,151",,743,,"32,332",
+Cayman Islands,"31,472",,37,,"8,553",
+Saint Lucia,"30,052",,409,,"29,095",
+Benin,"28,014",,163,,"27,847",
+Somalia,"27,334",,"1,361",,"13,182",
+Micronesia,"26,530",,65,,N/A,N/A
+Congo,"25,375",,386,,"24,006",
+Solomon Islands,"24,575",,153,,N/A,N/A
+San Marino,"24,382",,125,,"24,249",
+Timor-Leste,"23,460",,138,,"23,102",
+Burkina Faso,"22,056",,396,,"21,596",
+Liechtenstein,"21,474",,94,,"21,352",
+Gibraltar,"20,550",,113,,"16,579",
+Grenada,"19,693",,238,,"19,358",
+Bermuda,"18,860",,165,,"18,685",
+Nicaragua,"18,491",,225,,"4,225",
+South Sudan,"18,368",,138,,"18,115",
+Tajikistan,"17,786",,125,,"17,264",
+Equatorial Guinea,"17,229",,183,,"16,907",
+Monaco,"16,881",,67,,"15,992",
+Tonga,"16,819",,13,,"15,638",
+Samoa,"16,775",,31,,"1,605",
+Marshall Islands,"16,119",,17,,"16,083",
+Dominica,"15,760",,74,,"15,673",
+Djibouti,"15,690",,189,,"15,427",
+CAR,"15,368",,113,,"15,200",
+Macao,"14,735",,123,,"3,487",
+Gambia,"12,626",,372,,"12,189",
+Saint Martin,"12,324",,63,,"1,399",
+Vanuatu,"12,019",,14,,"11,976",
+Greenland,"11,971",,21,,"2,761",
+Yemen,"11,945",,"2,159",,"9,124",
+Caribbean Netherlands,"11,682",,38,,"10,476",
+Sint Maarten,"11,051",,92,,"10,905",
+Eritrea,"10,189",,103,,"10,086",
+Niger,"9,931",,312,,"8,890",
+St. Vincent Grenadines,"9,631",,124,,"9,493",
+Guinea-Bissau,"9,614",,177,,"8,929",
+Comoros,"9,109",,161,,"8,939",
+Antigua and Barbuda,"9,106",,146,,"8,954",
+Liberia,"8,090",,295,,"7,783",
+Sierra Leone,"7,762",,126,,N/A,N/A
+Chad,"7,701",,194,,"4,874",
+British Virgin Islands,"7,305",,64,,N/A,N/A
+Cook Islands,"7,152",,2,,"7,150",
+Turks and Caicos,"6,630",,39,,"6,576",
+Saint Kitts and Nevis,"6,607",,48,,"6,559",
+Sao Tome and Principe,"6,595",,80,,"6,509",
+Palau,"6,228",,9,,"6,211",
+St. Barth,"5,507",,6,,N/A,N/A
+Nauru,"5,393",,1,,"5,347",
+Kiribati,"5,085",,24,,"2,703",
+Anguilla,"3,904",,12,,"3,879",
+Wallis and Futuna,"3,550",,8,,438,
+Saint Pierre Miquelon,"3,452",,2,,"2,449",
+Tuvalu,"2,943",,1,,,
+Saint Helena,"2,166",,,,2,
+Falkland Islands,"1,930",,,,"1,930",
+Montserrat,"1,403",,8,,"1,376",
+Niue,880,+1,,,851,+5
+Diamond Princess,712,,13,,699,
+Tokelau,80,,,,,
+Vatican City,29,,,,29,
+Western Sahara,10,,1,,9,
+MS Zaandam,9,,2,,7,
