@@ -85,18 +85,21 @@ if type_vis != 'Choose an Option' and x_column != 'Choose an Option' and y_colum
         fig = px.histogram(data, x='country', y=x_column)
         fig.update_xaxes(title_text='Countries')  # Correct the x-axis label
         fig.update_xaxes(tickangle=45)  # Angle the x-axis labels
+        fig.update_yaxes(title_text=x_column_display, tickprefix='')  # Update y-axis label
         fig.update_layout(height=600, width=1000)  
         st.plotly_chart(fig, use_container_width=True)
     elif type_vis == 'Line Chart':
         fig = px.line(data, x='country', y=x_column)
         fig.update_xaxes(title_text='Countries')  # Correct the x-axis label
-        fig.update_xaxes(tickangle=45)  
+        fig.update_xaxes(tickangle=45)
+        fig.update_yaxes(title_text=x_column_display, tickprefix='')  # Update y-axis label 
         fig.update_layout(height=600, width=1000)  
         st.plotly_chart(fig, use_container_width=True)
     elif type_vis == 'Scatter Plot':
         fig = px.scatter(data, x='country', y=x_column, hover_data=['country'])
         fig.update_xaxes(title_text='Countries')  # Correct the x-axis label
-        fig.update_xaxes(tickangle=45)  
+        fig.update_xaxes(tickangle=45)
+        fig.update_yaxes(title_text=x_column_display, tickprefix='')  # Update y-axis label
         fig.update_layout(height=600, width=1000)  
         st.plotly_chart(fig, use_container_width=True)
 
