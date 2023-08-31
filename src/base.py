@@ -28,7 +28,7 @@ class Base:
         response = requests.get(self.api_url, headers=self.headers)
         
         if response.status_code == 200:
-            print(response.text) 
+            # print(response.text) 
             print("Connection successful!!!")
             json_data = response.json()
 

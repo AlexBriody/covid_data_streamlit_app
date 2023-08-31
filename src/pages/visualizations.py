@@ -1,10 +1,11 @@
+import os
 import streamlit as st
 import pandas as pd
 import plotly.express as px
 from to_mongo import ToMongo
 from pathlib import Path
 
-#******************added**********************
+#******************added below**********************
 # Create a dictionary to map display names to column names
 column_name_map = {
     'Total Cases': 'totalCases',
@@ -19,10 +20,14 @@ column_name_map = {
 # Create a list of display names for the dropdown
 display_names = list(column_name_map.keys())
 
-#******************added**********************
+#******************added above **********************
 
-# Establish a filepath to the oracle_cards.csv file
-filepath = Path('/Users/alexanderbriody/Desktop/Coding Temple/capstone_2/covid_data_streamlit_app/covid_data_streamlit_app/src/data/covid_data_eng.csv')
+# # Establish a filepath to the oracle_cards.csv file
+# filepath = Path('/Users/alexanderbriody/Desktop/Coding Temple/capstone_2/covid_data_streamlit_app/covid_data_streamlit_app/src/data/covid_data_eng.csv')
+
+filepath = os.path.join(Path(__file__).parents[1], 'data/covid_data_eng.csv')
+df = pd.read_csv(filepath, low_memory=False)
+
 df = pd.read_csv(filepath, low_memory=False)
 
 # Create an instance of the ToMongo class
@@ -43,7 +48,7 @@ type_vis = st.selectbox('Select the type of visualization:', options=['Choose an
 # # Add "Choose an Option" as the initial option for the covid-19 metric dropdown
 # x_column = st.selectbox('Select a covid-19 metric:', options=['Choose an Option', 'totalCases', 'totalDeaths', 'totalRecovered', 'percentDeaths', 'percentRecovered', 'rankPercentRecovered', 'rankPercentDeaths'])
 
-#******************added**********************
+#******************added below**********************
 
 # Dropdown widget for data selection
 # Add "Choose an Option" as the initial option for the covid-19 metric dropdown
@@ -52,9 +57,7 @@ x_column_display = st.selectbox('Select a covid-19 metric:', options=['Choose an
 # Get the column name corresponding to the selected display name
 x_column = column_name_map.get(x_column_display)
 
-#******************added**********************
-
-
+#******************added above**********************
 
 # Define the options for the ranking range dropdown with "Choose an Option" as the initial option
 y_column_options = ['Choose an Option', 'Top 25 Countries', 'Bottom 25 Countries']
